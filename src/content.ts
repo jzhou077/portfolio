@@ -49,14 +49,6 @@ export const experience: Job[] = [
     stack: "Python, signal processing",
   },
   {
-    role: "Project Manager",
-    org: "AppDev@MIT",
-    start: "Sep 2026",
-    end: "present",
-    body: "Building a desktop study companion app that syncs assignments from Canvas and rewards progress through a gamified virtual pet. Working across the project, with a focus on the backend, syncing assignments from Canvas and game mechanics.",
-    stack: "Python, FastAPI, Pyside6, SQL"
-  },
-  {
     role: "Team Member",
     org: "Human Technology Integration Club",
     start: "Sep 2026",
